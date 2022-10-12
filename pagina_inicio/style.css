@@ -1,0 +1,76 @@
+.container_base{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+.container_0{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin: auto;
+}
+/* ============================= */
+/*      avatar e titulo */
+.container_1{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    margin: auto;
+    align-items: center;
+
+}
+/* ============================= */
+/*      avatar e titulo >> avatar_img*/
+.container_1 img{
+    height: 300px;
+    width: auto;
+    clip-path: circle();
+}
+/* ============================= */
+/*      avatar e titulo  >> titulo */
+.container_1 h2{
+   align-items: center;
+   color: rgba(0, 0, 0, 0.37);
+   margin-left: 90px;
+}
+/* ============================= */
+/*      botões >> style css botão */
+.container_2{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    align-items: center;
+    margin-bottom: 20px;
+}
+/* ============================= */
+/*      Texto e titulo > Sobre nos */
+.container_3{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    align-items: center;
+    margin: auto;
+}
+.container_3 div{
+    display: flex;
+    flex-direction: row;
+}
+/* ============================= */
+/*      Sobre nos >> titulo */
+.container_3 h1{
+    margin-right: 30px;
+    margin: auto 30px 5px auto;
+}
+/* ============================= */
+/*      Sobre nos >> texto */
+.sobre_nos {
+    margin-top: 20px;
+    width: 80%;
+    line-height: 1.8;
+}
+
+.container_4{
+    margin-top: 20px;
+    height: 120px;
+    background-color: black;
+}

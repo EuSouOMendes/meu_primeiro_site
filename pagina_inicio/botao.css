@@ -1,0 +1,33 @@
+/* ============================================= */
+/*  estilo aplicado aos tres botões */
+.btn{
+    display: flex;
+    flex-direction: row;
+    width: 40%;
+    margin-top: 20px;
+    margin: auto auto 30px auto;
+}
+.btn img{
+    margin-right: 20px;
+    margin: auto 30px auto 0;
+}
+.btn_st{
+    display: flex;
+    flex-direction: row;
+    height: 120px;
+    background-color: rgba(54, 225, 156, 1);
+    width: 80%;
+    border-radius: 40px;
+    
+}
+.btn_st h2{
+    color: white;
+    margin: auto;
+}
+
+.format_btn{
+    display: flex;
+    flex-direction: row;
+    width: 100%;   
+    text-decoration: none; 
+}
