@@ -1,11 +1,18 @@
 # Desenvolvimento de uma pagina web
-### Pagina desenvolvida focando no compartilhamento de rede sociais e compartilhamento da historia da nossa empresa, sendo apenas uma pagina , nela contem botões que irão direcionar o cliente as minhas principais redes sociais alem de contar um pouco sobre mim
+## Desenvolvedor : Douglas Ronan Mendes de Oliveira ⭐
+### Descrição da pagina : Desenvolvida focando no compartilhamento de rede sociais e compartilhamento da historia da nossa empresa, sendo apenas uma pagina , nela contem botões que irão direcionar o cliente as minhas principais redes sociais alem de contar um pouco sobre mim
+#
+## >>Codigo
+### Codigo bem detalhado e comentado desenvolvido para melhor manutenção e aprimoramento
+ 
 #
 ##  Progamação
 -   HTML
     -
 -   CSS
     -
+## Design feito no figma 
+
 #
 ## Prototipação desenvolvida com a ferramenta Figma
 ![img](/imagens%20readme/imagem_figma.png)
