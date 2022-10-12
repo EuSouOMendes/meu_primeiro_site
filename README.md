@@ -11,6 +11,11 @@
     -
 -   CSS
     -
+
+-   fonte imagens
+    -
+    -   https://fontawesome.com/
+    -   https://www.mundoecologia.com.br/animais/especies-de-castor-lista-com-tipos-nomes-e-fotos/
 ## Design feito no figma 
 
 #
